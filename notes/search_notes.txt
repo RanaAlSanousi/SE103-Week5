@@ -1,0 +1,13 @@
+Student Name: Rana AlSanousi
+
+What grep helped me do:
+grep helped me search inside journal.txt for the word error and pull out only the matching lines. The -n option also showed me the line number, so I could see exactly where the problem was written. I saved the result to a file so I had a record of it.
+
+What find helped me do:
+find helped me locate every .txt file inside the shell_practice folder without opening each one. Instead of guessing where files were, I searched by name pattern and got a full list. I saved that list into the output folder as evidence.
+
+What the pipe helped me do:
+The pipe let me send the output of ls straight into grep as its input. That meant I could list the files and filter them for .txt in one command instead of two separate steps. It showed me how small commands can be chained into something more useful.
+
+Difference between > and >>:
+The > operator sends output into a file and overwrites whatever was already there. The >> operator adds output to the end of the file and keeps the earlier lines. I used > to start my journal and >> to keep adding lines to it.
