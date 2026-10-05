@@ -1,0 +1,5 @@
+total 12
+drwxr-xr-x 2 ralsanousi ralsanousi 4096 Oct  6 00:27 .
+drwxr-xr-x 7 ralsanousi ralsanousi 4096 Oct  6 00:23 ..
+-rw-r--r-- 1 ralsanousi ralsanousi    0 Oct  6 00:24 .gitkeep
+-rw-r--r-- 1 ralsanousi ralsanousi  183 Oct  6 00:28 journal.txt
