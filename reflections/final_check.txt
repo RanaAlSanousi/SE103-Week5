@@ -1,0 +1,7 @@
+Student Name: Rana AlSanousi
+GitHub Username: RanaAlSanousi
+Repository: SE103-Week5
+Repository URL: https://github.com/RanaAlSanousi/SE103-Week5
+All required files are on main: Yes
+One thing I would improve next time:
+Next time I would read all the setup steps before starting, so I avoid small mistakes like checking the wrong option when creating the repository. I would also start earlier so I am not working under time pressure. Checking each task against the Done When list as I go would help me catch problems sooner.
