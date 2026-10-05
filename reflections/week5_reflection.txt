@@ -1,0 +1,13 @@
+Student Name: Rana AlSanousi
+
+What I practiced in the shell:
+I practiced writing output into files with > to overwrite and >> to append. I used grep to pull the lines containing the word error out of my journal. I used find to locate every .txt file in a folder, and I chained ls into grep with a pipe. I also used a wildcard pattern to list and copy the data files. Saving every result into the output folder gave me a clear record of what each command did.
+
+How GitHub changed my submission habits:
+Before, I would finish my work and only think about submitting at the end. Now the repository is the submission, so I commit and push after every task. Each commit message describes one step, which makes my progress easy to follow. I also see that my work is only counted once it is visible on GitHub, not just on my computer. Working this way feels more organized and less stressful than saving everything for the last minute.
+
+One mistake I made and how I fixed it:
+When I created the repository, I checked the option to add a README, even though the instructions did not ask for it. This meant the repository already had a README before I cloned it. I fixed it by overwriting the README with the required content and committing it. It reminded me to read the setup steps carefully before clicking anything.
+
+Why the repository name had to be exactly SE103-Week5:
+The checker looks for a repository with that exact name, so any change would make my work impossible to find. Exact names are how automated systems locate and grade submissions.
