@@ -1,0 +1,10 @@
+Student Name: Rana AlSanousi
+
+What * meant in my pattern:
+In data*.txt, the * stands for any characters, so the pattern matches every file that starts with data and ends with .txt. That is how one pattern selected data1.txt, data2.txt, and data3.txt together.
+
+Why I listed matches before copying:
+I ran ls with the pattern first so I could see exactly which files it would match. Doing this confirms the pattern is selecting what I expect before I act on it. It is a cheap check that prevents me from copying or changing the wrong files.
+
+Why wildcards are dangerous with delete commands:
+A wildcard can match more files than I expect, and a delete command removes all of them at once. A small typo in the pattern, like a stray space or a missing prefix, could match files I wanted to keep. Deleted files in the shell do not go to a recycle bin, so they can be hard or impossible to recover. That is why I list the matches first and only delete once the list is exactly right.
